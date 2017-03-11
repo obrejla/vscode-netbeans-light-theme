@@ -6,6 +6,11 @@
     "publisher": "obrejla",
     "homepage": "https://github.com/obrejla/vscode-netbeans-light-theme",
     "license": "See license in LICENSE file.",
+    "icon": "images/nb-icon.png",
+    "galleryBanner": {
+        "color": "#446CB3",
+        "theme": "light"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/obrejla/vscode-netbeans-light-theme.git"
