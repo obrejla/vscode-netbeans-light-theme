@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.1]
+- Fixed minor boilerplate issues.
+
 ## [1.0.0]
 - Added support for JavaScript (and JSON) files
 - Added support for HTML files
