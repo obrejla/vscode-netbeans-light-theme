@@ -1,6 +1,6 @@
 # Change Log
 
-## [Unreleased]
+## [1.0.2]
 - Fixed problem with selection color opacity during occurrence selection.
   See: https://github.com/Microsoft/vscode/issues/22324
 
