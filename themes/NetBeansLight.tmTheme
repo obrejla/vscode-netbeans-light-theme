@@ -22,11 +22,11 @@
 				<key>selection</key>
 				<string>#B0C5E3</string>
                 <key>findMatchHighlight</key>
-				<string>#FFB44280</string>
+				<string>#FFB442CC</string>
                 <key>currentFindMatchHighlight</key>
-				<string>#B0C5E380</string>
+				<string>#B0C5E3CC</string>
                 <key>wordHighlight</key>
-                <string>#ECEBA380</string>
+                <string>#ECEBA3CC</string>
 			</dict>
 		</dict>
         <dict>
