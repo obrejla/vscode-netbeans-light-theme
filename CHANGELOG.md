@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.4]
+- JavaScript: Added handling of 'typeof' operator.
+
 ## [1.0.3]
 - Improved handling of opacity of highlighted colors.
 
