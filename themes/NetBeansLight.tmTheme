@@ -147,6 +147,7 @@
                 variable.language.java,
                 keyword.control,
                 keyword.operator.new.js,
+                keyword.operator.expression.typeof.js,
                 keyword.other.import,
                 keyword.other.import.static,
                 keyword.other.package
