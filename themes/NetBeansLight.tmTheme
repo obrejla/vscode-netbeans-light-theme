@@ -148,6 +148,8 @@
                 keyword.control,
                 keyword.operator.new.js,
                 keyword.operator.expression.typeof.js,
+                keyword.operator.expression.delete.js,
+                keyword.operator.expression.instanceof.js,
                 keyword.other.import,
                 keyword.other.import.static,
                 keyword.other.package
