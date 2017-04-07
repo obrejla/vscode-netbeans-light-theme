@@ -1,6 +1,6 @@
 # Change Log
 
-## [unreleased]
+## [1.0.5]
 - JavaScript: Added handling of 'instanceof' and 'delete' operators.
 
 ## [1.0.4]
