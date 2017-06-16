@@ -254,8 +254,8 @@
             <key>scope</key>
             <string>
                 variable,
-                entity.name.function.js,
                 meta.function-call.ts entity.name.function.ts,
+                meta.function-call.js entity.name.function.js,
                 support.function,
                 support.variable.property.js,
                 storage.modifier.import,

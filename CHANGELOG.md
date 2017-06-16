@@ -1,6 +1,7 @@
 # Change Log
 
 ## [unreleased]
+- JavaScript: Improved styles of function declarations.
 
 ## [1.1.0]
 - Added basic support for TypeScript.
