@@ -1,6 +1,8 @@
 # Change Log
 
 ## [unreleased]
+
+## [1.1.0]
 - Added basic support for TypeScript.
 
 ## [1.0.6]
