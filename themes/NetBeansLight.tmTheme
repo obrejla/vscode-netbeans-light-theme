@@ -2,142 +2,142 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>name</key>
-	<string>NetBeansJS</string>
-	<key>settings</key>
-	<array>
-		<dict>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#FFFFFF</string>
-				<key>caret</key>
-				<string>#000000</string>
-				<key>foreground</key>
-				<string>#000000</string>
-				<key>invisibles</key>
-				<string>#FFFFFF</string>
-				<key>lineHighlight</key>
-				<string>#E9EFF8</string>
-				<key>selection</key>
-				<string>#B0C5E3</string>
+    <key>name</key>
+    <string>NetBeansJS</string>
+    <key>settings</key>
+    <array>
+        <dict>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#FFFFFF</string>
+                <key>caret</key>
+                <string>#000000</string>
+                <key>foreground</key>
+                <string>#000000</string>
+                <key>invisibles</key>
+                <string>#FFFFFF</string>
+                <key>lineHighlight</key>
+                <string>#E9EFF8</string>
+                <key>selection</key>
+                <string>#B0C5E3</string>
                 <key>findMatchHighlight</key>
-				<string>#FFB442CC</string>
+                <string>#FFB442CC</string>
                 <key>currentFindMatchHighlight</key>
-				<string>#B0C5E3CC</string>
+                <string>#B0C5E3CC</string>
                 <key>wordHighlight</key>
                 <string>#ECEBA3CC</string>
-			</dict>
-		</dict>
+            </dict>
+        </dict>
         <dict>
-			<key>name</key>
-			<string>Class and Interface Name</string>
-			<key>scope</key>
-			<string>
+            <key>name</key>
+            <string>Class and Interface Name</string>
+            <key>scope</key>
+            <string>
                 entity.name.type.class,
                 entity.name.type.interface
             </string>
-			<key>settings</key>
-			<dict>
+            <key>settings</key>
+            <dict>
                 <key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
         <dict>
-			<key>name</key>
-			<string>Inherited Class Name</string>
-			<key>scope</key>
-			<string>
+            <key>name</key>
+            <string>Inherited Class Name</string>
+            <key>scope</key>
+            <string>
                 entity.other.inherited-class
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
         <dict>
-			<key>name</key>
-			<string>Function Name</string>
-			<key>scope</key>
-			<string>
+            <key>name</key>
+            <string>Function Name</string>
+            <key>scope</key>
+            <string>
                 entity.name.function,
                 meta.definition.method.ts entity.name.function.ts
             </string>
-			<key>settings</key>
-			<dict>
+            <key>settings</key>
+            <dict>
                 <key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
         <dict>
-			<key>name</key>
-			<string>Constant Other</string>
-			<key>scope</key>
-			<string>
+            <key>name</key>
+            <string>Constant Other</string>
+            <key>scope</key>
+            <string>
                 constant.other
             </string>
-			<key>settings</key>
-			<dict>
+            <key>settings</key>
+            <dict>
                 <key>fontStyle</key>
-				<string>italic</string>
-				<key>foreground</key>
-				<string>#009900</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Comment</string>
-			<key>scope</key>
-			<string>
+                <string>italic</string>
+                <key>foreground</key>
+                <string>#009900</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Comment</string>
+            <key>scope</key>
+            <string>
                 comment,
                 comment.block.documentation.js,
                 comment.line.double-slash.js,
                 entity.name.type.instance.jsdoc,
                 variable.other.jsdoc
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#969696</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Comment: Annotations</string>
-			<key>scope</key>
-			<string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#969696</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Comment: Annotations</string>
+            <key>scope</key>
+            <string>
                 storage.type.class.jsdoc,
                 keyword.other.documentation
             </string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#969696</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Regex</string>
-			<key>scope</key>
-			<string>string.regexp.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#9933CC</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Keywords</string>
-			<key>scope</key>
-			<string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#969696</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Regex</string>
+            <key>scope</key>
+            <string>string.regexp.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#9933CC</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Keywords</string>
+            <key>scope</key>
+            <string>
                 keyword,
                 storage,
                 constant.language,
@@ -158,17 +158,17 @@
                 keyword.other.package,
                 support.type.primitive.ts
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#0000E6</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Object Field</string>
-			<key>scope</key>
-			<string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#0000E6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Object Field</string>
+            <key>scope</key>
+            <string>
                 support.type.property-name.json,
                 entity.other.attribute-name,
                 meta.object-literal.key,
@@ -178,34 +178,34 @@
                 support.variable.property.dom.js,
                 variable.object.property
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#009900</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>String</string>
-			<key>scope</key>
-			<string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#009900</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>String</string>
+            <key>scope</key>
+            <string>
                 string,
                 punctuation.definition.string.begin.js,
                 punctuation.definition.string.end.js,
                 string.quoted.single.js,
                 string.quoted.double.js
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#CE7B00</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Separators</string>
-			<key>scope</key>
-			<string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#CE7B00</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Separators</string>
+            <key>scope</key>
+            <string>
                 punctation,
                 punctuation.terminator.statement.js,
                 punctuation.separator.key-value.js,
@@ -215,44 +215,44 @@
                 punctuation.definition.parameters.begin.js,
                 punctuation.definition.parameters.end.js
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
-			<string>Global</string>
-			<key>scope</key>
-			<string>
+            <string>Global</string>
+            <key>scope</key>
+            <string>
                 support.variable.dom.ts
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#9F0D79</string>
-			</dict>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#9F0D79</string>
+            </dict>
         </dict>
-		<dict>
-			<key>name</key>
-			<string>Operators</string>
-			<key>scope</key>
-			<string>
+        <dict>
+            <key>name</key>
+            <string>Operators</string>
+            <key>scope</key>
+            <string>
                 keyword.operator,
                 storage.type.function.arrow
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Identifier</string>
-			<key>scope</key>
-			<string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Identifier</string>
+            <key>scope</key>
+            <string>
                 variable,
                 entity.name.function.js,
                 meta.function-call.ts entity.name.function.ts,
@@ -265,25 +265,25 @@
                 storage.type.object.array,
                 storage.type.java
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#000000</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#000000</string>
                 <key>fontStyle</key>
-				<string>plain</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Class Name</string>
-			<key>scope</key>
-			<string>support.class.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
+                <string>plain</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Class Name</string>
+            <key>scope</key>
+            <string>support.class.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
             <string>HTML and XML: Doctype</string>
@@ -295,77 +295,77 @@
                 variable.language.documentroot.xml
             </string>
             <key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#628FB5</string>
-			</dict>
+            <dict>
+                <key>foreground</key>
+                <string>#628FB5</string>
+            </dict>
         </dict>
         <dict>
-			<key>name</key>
-			<string>HTML and XML: Tags</string>
-			<key>scope</key>
-			<string>
+            <key>name</key>
+            <string>HTML and XML: Tags</string>
+            <key>scope</key>
+            <string>
                 entity.name.tag,
                 punctuation.definition.tag.xml,
                 punctuation.definition.tag.html,
                 punctuation.definition.tag.begin.html,
                 punctuation.definition.tag.end.html
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#0000E6</string>
-			</dict>
-		</dict>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#0000E6</string>
+            </dict>
+        </dict>
         <dict>
-			<key>name</key>
-			<string>CSS: Property Name</string>
-			<key>scope</key>
-			<string>
+            <key>name</key>
+            <string>CSS: Property Name</string>
+            <key>scope</key>
+            <string>
                 support.type.property-name.css
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#0000E6</string>
-			</dict>
-		</dict>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#0000E6</string>
+            </dict>
+        </dict>
         <dict>
-			<key>name</key>
-			<string>CSS: Property Value</string>
-			<key>scope</key>
-			<string>
+            <key>name</key>
+            <string>CSS: Property Value</string>
+            <key>scope</key>
+            <string>
                 keyword.other
             </string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
         <dict>
-			<key>name</key>
-			<string>CSS: At Rule</string>
-			<key>scope</key>
-			<string>
+            <key>name</key>
+            <string>CSS: At Rule</string>
+            <key>scope</key>
+            <string>
                 keyword.control.at-rule.keyframes.css
             </string>
-			<key>settings</key>
-			<dict>
+            <key>settings</key>
+            <dict>
                 <key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
-	</array>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+    </array>
     <key>uuid</key>
-	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.light.net_beans_js</string>
-	<key>author</key>
-	<string>Ondřej Brejla</string>
+    <string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+    <key>colorSpaceName</key>
+    <string>sRGB</string>
+    <key>semanticClass</key>
+    <string>theme.light.net_beans_js</string>
+    <key>author</key>
+    <string>Ondřej Brejla</string>
 </dict>
 </plist>
