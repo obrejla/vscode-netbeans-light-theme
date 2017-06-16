@@ -35,7 +35,7 @@
             {
                 "label": "NetBeans Light Theme",
                 "uiTheme": "vs",
-                "path": "./themes/NetBeansLight.tmTheme"
+                "path": "./themes/NetBeansLight.json"
             }
         ]
     }
