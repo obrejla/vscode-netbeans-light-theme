@@ -1,6 +1,6 @@
 # Change Log
 
-## [unreleased]
+## [1.1.1]
 - JavaScript: Improved styles of function declarations.
 
 ## [1.1.0]
