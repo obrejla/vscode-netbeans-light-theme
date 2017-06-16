@@ -221,7 +221,8 @@
 			<string>Operators</string>
 			<key>scope</key>
 			<string>
-                keyword.operator
+                keyword.operator,
+                storage.type.function.arrow.js
             </string>
 			<key>settings</key>
 			<dict>

@@ -1,5 +1,8 @@
 # Change Log
 
+## [unreleased]
+- JavaScript: Added handling of '=>' operator.
+
 ## [1.0.5]
 - JavaScript: Added handling of 'instanceof' and 'delete' operators.
 
