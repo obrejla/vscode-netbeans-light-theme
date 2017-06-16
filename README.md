@@ -4,6 +4,7 @@ This VS Code Theme extension tries to setup editor colors to same colors which a
 
 Currently supported languages:
 - JavaScript (JSON)
+- TypeScript
 - HTML
 - CSS
 - Java

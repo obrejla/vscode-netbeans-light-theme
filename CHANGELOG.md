@@ -1,5 +1,8 @@
 # Change Log
 
+## [unreleased]
+- Added basic support for TypeScript.
+
 ## [1.0.6]
 - JavaScript: Added handling of '=>' operator.
 
