@@ -1,6 +1,6 @@
 # Change Log
 
-## [unreleased]
+## [1.0.6]
 - JavaScript: Added handling of '=>' operator.
 
 ## [1.0.5]
