@@ -11,7 +11,8 @@
         "editorWhitespace.foreground": "#ffffff",
         "editor.wordHighlightBackground": "#eceba3cc",
         "peekViewResult.matchHighlightBackground": "#ffb442cc",
-        "editorIndentGuide.background": "#D3D3D3"
+        "editorIndentGuide.background": "#D3D3D3",
+        "editorLineNumber.foreground": "#000000"
     },
     "tokenColors": [
         {

@@ -1,5 +1,8 @@
 # Change Log
 
+## [unreleased]
+- Editor: Added proper color for line numbers.
+
 ## [2.0.0]
 - Used new theming support to be able to theme the editor itself.
 - Editor: Added gray indent guides to editor.
