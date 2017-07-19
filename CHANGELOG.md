@@ -2,6 +2,7 @@
 
 ## [unreleased]
 - Editor: Added proper color for line numbers.
+- JavaScript: Improved style of static object property.
 
 ## [2.0.0]
 - Used new theming support to be able to theme the editor itself.

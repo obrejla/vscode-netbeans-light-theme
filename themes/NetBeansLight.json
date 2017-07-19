@@ -83,7 +83,7 @@
         },
         {
             "name": "Object Field",
-            "scope": "support.type.property-name.json,entity.other.attribute-name,meta.object-literal.key,variable.other.property,variable.other.object.property,variable.other.constant.property.js,support.variable.property.dom.js,variable.object.property",
+            "scope": "support.type.property-name.json,entity.other.attribute-name,meta.object-literal.key,variable.other.property,variable.other.object.property,variable.other.constant.property.js,variable.other.constant.object.property.js,support.variable.property.dom.js,variable.object.property",
             "settings": {
                 "foreground": "#009900"
             }

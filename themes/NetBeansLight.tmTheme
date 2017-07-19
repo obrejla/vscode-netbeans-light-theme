@@ -175,6 +175,7 @@
                 variable.other.property,
                 variable.other.object.property,
                 variable.other.constant.property.js,
+                variable.other.constant.object.property.js,
                 support.variable.property.dom.js,
                 variable.object.property
             </string>
