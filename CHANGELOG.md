@@ -1,6 +1,6 @@
 # Change Log
 
-## [unreleased]
+## [2.0.2]
 - Fixed thumbnail image path issue.
 
 ## [2.0.1]
