@@ -1,5 +1,8 @@
 # Change Log
 
+## [unreleased]
+- Fixed thumbnail image path issue.
+
 ## [2.0.1]
 - Editor: Added proper color for line numbers.
 - JavaScript: Improved style of static object property.
